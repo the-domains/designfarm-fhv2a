@@ -1,0 +1,14 @@
+layout_spectrum: 0.23590830736793578
+typography_spectrum: 0.41814795788377523
+color:
+  brandStrength: 0.06773688108660281
+  lightness: 0.35482677607797086
+  saturation: 0.29021378164179623
+  rhythmicContrast: 0.5281849226448685
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: DesignFarm
