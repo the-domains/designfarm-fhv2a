@@ -1,16 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-20T07:51:59.303Z'
-datePublished: '2016-07-20T07:52:12.563Z'
+dateModified: '2016-07-20T07:56:18.074Z'
+datePublished: '2016-07-20T07:56:18.962Z'
 title: Design Logo
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f931a27-0b31-4564-a6e8-c9ee3faa60b0.png
-starred: false
 sourcePath: _posts/2016-07-20-design-logo.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: design-logo/index.html
 _type: MediaObject
 
 ---
