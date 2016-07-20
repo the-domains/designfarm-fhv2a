@@ -12,5 +12,9 @@ color:
     - '#ED8C2B'
 layout_spectrum: 0.23590830736793578
 name: DesignFarm
-navigation: []
+navigation:
+  - id: a13fe50e-a305-4d2a-b0a3-be67671efb55
+    url: 2016-07-20-a13fe50e-a305-4d2a-b0a3-be67671efb55.html
+    name: logo
+    type: content
 title: Logo Design
