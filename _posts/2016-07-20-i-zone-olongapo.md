@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-20T04:22:03.219Z'
+datePublished: '2016-07-20T05:02:13.900Z'
+sourcePath: _posts/2016-07-20-i-zone-olongapo.md
 author: []
-dateModified: '2016-07-20T04:21:29.882Z'
-title: ''
+dateModified: '2016-07-20T05:01:57.161Z'
+title: I - Zone Olangapo
 description: I-Zone Olongapo
 starred: false
-sourcePath: _posts/2016-07-20-i-zone-olongapo.md
 inFeed: true
 hasPage: true
 inNav: false
