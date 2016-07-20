@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[DesignFarm]]></title>
         <description><![CDATA[DesignFarm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/designfarm-fhv2a/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 09:59:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 09:59:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/designfarm-fhv2a/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbf94f83-27f0-44c9-b203-bfa06c47f7b9.png">]]></description>
-            <link>undefinedcc6947eb-1886-49d9-b02e-daa6d6b39b32/index.html</link>
+            <link>https://thegrid.ai/designfarm-fhv2a/cc6947eb-1886-49d9-b02e-daa6d6b39b32/index.html</link>
             <guid isPermaLink="false">cc6947eb-1886-49d9-b02e-daa6d6b39b32</guid>
             <pubDate>Wed, 20 Jul 2016 09:59:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04909079-b4cf-45d7-a204-f0f328986828.png">]]></description>
+            <link>https://thegrid.ai/designfarm-fhv2a/869c4209-1bfe-448b-b748-71d80b665aa3/index.html</link>
+            <guid isPermaLink="false">869c4209-1bfe-448b-b748-71d80b665aa3</guid>
+            <pubDate>Wed, 20 Jul 2016 09:59:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
