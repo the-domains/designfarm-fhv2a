@@ -4,8 +4,15 @@
         <description><![CDATA[Logo Design]]></description>
         <link>https://thegrid.ai/designfarm-fhv2a/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 06:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 06:38:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designfarm-fhv2a/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0161c85a427ae6146baca0471b0ddf4/croprotate.png?cropheight=2549&cropwidth=3090&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8e29c616-3a2e-4dc6-bc1c-5dbcd8ac56bf.png&x=103&y=0">]]></description>
+            <link>https://thegrid.ai/designfarm-fhv2a/e02e7b2e-f76c-439e-83cb-9d119c7d27bd/index.html</link>
+            <guid isPermaLink="false">e02e7b2e-f76c-439e-83cb-9d119c7d27bd</guid>
+            <pubDate>Wed, 20 Jul 2016 06:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d1e5b89fded3d8272720acf760d2351/croprotate.png?cropheight=2549&cropwidth=3090&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5bd25836-7c1d-4bba-b856-81e3c77a042b.png&x=103&y=0">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/designfarm-fhv2a/d774dbd9-d118-4d5f-bb91-1e491ba22610/index.html</link>
             <guid isPermaLink="false">d774dbd9-d118-4d5f-bb91-1e491ba22610</guid>
             <pubDate>Wed, 20 Jul 2016 06:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b0161c85a427ae6146baca0471b0ddf4/croprotate.png?cropheight=2549&cropwidth=3090&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8e29c616-3a2e-4dc6-bc1c-5dbcd8ac56bf.png&x=103&y=0">]]></description>
-            <link>https://thegrid.ai/designfarm-fhv2a/e02e7b2e-f76c-439e-83cb-9d119c7d27bd/index.html</link>
-            <guid isPermaLink="false">e02e7b2e-f76c-439e-83cb-9d119c7d27bd</guid>
-            <pubDate>Wed, 20 Jul 2016 06:33:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
