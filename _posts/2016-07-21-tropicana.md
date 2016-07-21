@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-07-21T03:59:56.900Z'
+datePublished: '2016-07-21T03:59:59.415Z'
 sourcePath: _posts/2016-07-21-tropicana.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1808a5fc-6468-4bd5-8ae1-d19e9a7ca8a2.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T03:59:55.033Z'
+dateModified: '2016-07-21T03:59:58.277Z'
 title: Layout Design
 publisher:
   name: DesignFarm
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
