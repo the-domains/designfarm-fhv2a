@@ -4,8 +4,15 @@
         <description><![CDATA[Logos]]></description>
         <link>https://thegrid.ai/designfarm-logos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 02:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 02:46:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designfarm-logos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1155bb22e4189d30231355984092454/croprotate.png?cropheight=2549&cropwidth=3090&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd92b787-7bf6-4874-96ea-533f7fedfd37.png&x=103&y=0">]]></description>
+            <link>https://thegrid.ai/designfarm-logos/8587e49c-0481-48d0-ae8d-ba127967a86e/index.html</link>
+            <guid isPermaLink="false">8587e49c-0481-48d0-ae8d-ba127967a86e</guid>
+            <pubDate>Thu, 21 Jul 2016 02:46:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ae91208da6809794636a97969af7aea/croprotate.png?cropheight=2549&cropwidth=3090&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F85bc1508-9ef1-4a88-9966-d0a846074b6e.png&x=103&y=0">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/designfarm-logos/869c4209-1bfe-448b-b748-71d80b665aa3/index.html</link>
             <guid isPermaLink="false">869c4209-1bfe-448b-b748-71d80b665aa3</guid>
             <pubDate>Thu, 21 Jul 2016 02:44:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd92b787-7bf6-4874-96ea-533f7fedfd37.png">]]></description>
-            <link>https://thegrid.ai/designfarm-logos/8587e49c-0481-48d0-ae8d-ba127967a86e/index.html</link>
-            <guid isPermaLink="false">8587e49c-0481-48d0-ae8d-ba127967a86e</guid>
-            <pubDate>Wed, 20 Jul 2016 09:59:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
