@@ -17,6 +17,12 @@ navigation:
     url: thegrid.ai/designfarm-enterprises/home
     name: Home
     type: external
+  - id: >-
+      https://login.yahoo.com/?.src=ym&.intl=us&.lang=en-US&.done=https%3a//mail.yahoo.com
+    url: >-
+      https://login.yahoo.com/?.src=ym&.intl=us&.lang=en-US&.done=https%3a//mail.yahoo.com
+    name: facebook
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1651f70b-42cd-4614-a6cd-6e39ec944816.ico
 title: '| Logos |'
